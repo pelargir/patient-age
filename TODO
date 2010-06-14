@@ -1,0 +1,3 @@
+remove dependency on active_support
+handle time zones correctly
+support the Date class
