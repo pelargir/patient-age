@@ -1,0 +1,20 @@
+= lindo
+
+Calculates medical patient ages in years, months, weeks and days.
+
+== Installation
+  
+Install the gem standalone:
+
+  sudo gem install patient-age
+
+Or install the gem in your Rails project:
+
+  config.gem 'patient-age' # add this line to environment.rb
+  rake gems:install
+
+== Resources
+
+Repository: http://github.com/pelargir/patient-age
+Blog: http://matthewbass.com
+Author: Matthew Bass
