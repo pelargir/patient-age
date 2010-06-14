@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Matthew Bass"]
   s.date = %q{2010-06-14}
-  s.description = %q{Calculates medical patient ages in years, months, weeks and days.}
+  s.description = %q{Calculates medical patient age in years, months, weeks and days.}
   s.email = %q{pelargir@gmail.com}
   s.extra_rdoc_files = [
     "README",
@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{Calculates medical patient ages in years, months, weeks and days.}
+  s.summary = %q{Calculates medical patient age in years, months, weeks and days.}
   s.test_files = [
     "test/patient_age_test.rb"
   ]

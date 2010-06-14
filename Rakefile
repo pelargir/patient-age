@@ -15,8 +15,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
     gemspec.name = "patient-age"
-    gemspec.summary = "Calculates medical patient ages in years, months, weeks and days."
-    gemspec.description = "Calculates medical patient ages in years, months, weeks and days."
+    gemspec.summary = "Calculates medical patient age in years, months, weeks and days."
+    gemspec.description = "Calculates medical patient age in years, months, weeks and days."
     gemspec.email = "pelargir@gmail.com"
     gemspec.homepage = "http://github.com/pelargir/patient-age"
     gemspec.authors = ["Matthew Bass"]
